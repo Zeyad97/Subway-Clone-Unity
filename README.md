@@ -40,7 +40,7 @@ Built using **Unity** for mobile platforms and integrated with **Firebase** for 
 
 ## 🎬 Gameplay Video
 
-Watch the gameplay video of **Subway Election Run** on [YouTube]((https://youtu.be/z7vkNqHhuZQ?si=SNHmY5Lq-90fz05q)).
+Watch the gameplay video of **Subway Election Run** on [YouTube]((https://youtu.be/z7vkNqHhuZQ)).
 
 
 ## 📧 Contact
