@@ -11,6 +11,14 @@ Built using **Unity** for mobile platforms and integrated with **Firebase** for 
 
 ---
 
+## 🎥 Gameplay 
+
+[![Watch the trailer](https://img.youtube.com/vi/z7vkNqHhuZQ/0.jpg)](https://youtu.be/z7vkNqHhuZQ)
+
+*Click the image to watch the trailer on YouTube.🚉*
+
+---
+
 ## 🎮 Platforms
 
 - ✅ **Mobile (Android)**
